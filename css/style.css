@@ -1,0 +1,21 @@
+#Titulo{
+    color: tomato;
+}
+
+p.especial{
+    color: blue;
+}
+p.texto{
+    color: aquamarine;
+}
+div p {
+    color: blueviolet;
+}
+div h2, h3{
+    color: aqua;
+}
+*{
+    font-size: 24px;
+    color: black;
+}
+/*aca tenes el comentario para el nuevo.*/
